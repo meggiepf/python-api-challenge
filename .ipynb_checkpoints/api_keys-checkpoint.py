@@ -3,10 +3,12 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "6e136eb7",
+   "id": "a75794cd",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "weather_api_key = '81bf26397dd5affcb0f6db6889613268'"
+   ]
   }
  ],
  "metadata": {
